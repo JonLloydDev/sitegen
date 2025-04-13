@@ -1,1 +1,1 @@
-A simple static site generator
+A static website generator with rudimentary markdown parsing
